@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="distortion">
+</Property><Property Name="Solution File" Value="C:\kelly\kelly's study\graduate\research\code\程序\neighbour\distortion.sln">
+</Property><Property Name="User Options File" Value="C:\kelly\kelly's study\graduate\research\code\程序\neighbour\distortion.suo">
+</Property><Property Name="Date" Value="2012年11月12日">
+</Property><Property Name="Time" Value="12:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="distortion.sln" Description="File successfully backed up as C:\kelly\kelly's study\graduate\research\code\程序\neighbour\distortion.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="distortion.suo" Description="File successfully backed up as C:\kelly\kelly's study\graduate\research\code\程序\neighbour\distortion.suo.old">
+</Event><Event ErrorLevel="0" Project="distortion" Source="distortion\distortion.vcproj" Description="Converting project file 'C:\kelly\kelly's study\graduate\research\code\程序\neighbour\distortion\distortion.vcproj'.">
+</Event><Event ErrorLevel="1" Project="distortion" Source="distortion\distortion.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="distortion" Source="distortion\distortion.vcproj" Description="Done converting to new project file 'C:\kelly\kelly's study\graduate\research\code\程序\neighbour\distortion\distortion.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="distortion" Source="distortion\distortion.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="distortion.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="distortion.sln" Description="Converted">
+</Event></UpgradeLog>
